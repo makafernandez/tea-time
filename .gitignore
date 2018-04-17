@@ -17,3 +17,5 @@
 yarn-debug.log*
 .yarn-integrity
 .vscode
+app/.DS_Store
+app/assets/.DS_Store
